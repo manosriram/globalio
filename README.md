@@ -13,6 +13,6 @@ app.use(gio(io));
 ```
 Access req.io in every req in router.
 ```
-=======
+
 # globalio
 NPM package to globalize socket's io variable.
