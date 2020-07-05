@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 ```
 Usage:
 
@@ -16,4 +16,3 @@ Access req.io in every req in router.
 =======
 # globalio
 NPM package to globalize socket's io variable.
->>>>>>> d2a19bba44bbf79c6b234e6a1f4cf33b9cc471e4
